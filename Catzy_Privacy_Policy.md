@@ -100,7 +100,4 @@ We may process data using services based outside your country. If data is transf
 By using Catzy, you agree to the terms outlined in this Privacy Policy and consent to the processing of your data as described.
 
 
-
-Okay, here is the German translation of the Catzy Privacy Policy.
-
 ---
